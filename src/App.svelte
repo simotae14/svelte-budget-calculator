@@ -1,11 +1,18 @@
-<script>
-	export let name;
-</script>
-<style>
-	h1 {
-		color: purple;
-	}
-</style>
+<!-- <script></script> -->
+<!-- JAVASCRIPT LOGIC -->
 
-<h1>Hello {name}!</h1>
-<i class="fas fa-home fa-5x" />
+<!-- <style></style> -->
+<!-- CSS/STYLING -->
+
+<!-- HTML -->
+<nav class="nav">
+	<div class="nav-center">
+		<h1 class="nav-title">
+			budget calculator
+		</h1>
+		<button type="button" class="nav-btn">
+			<i class="far fa-plus-square"></i>
+			add item
+		</button>
+	</div>
+</nav>
